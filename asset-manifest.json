@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptonetAssignment/static/css/main.ac27b8f4.css",
+    "main.js": "/cryptonetAssignment/static/js/main.61784178.js",
+    "static/js/787.0f8d78ff.chunk.js": "/cryptonetAssignment/static/js/787.0f8d78ff.chunk.js",
+    "index.html": "/cryptonetAssignment/index.html",
+    "main.ac27b8f4.css.map": "/cryptonetAssignment/static/css/main.ac27b8f4.css.map",
+    "main.61784178.js.map": "/cryptonetAssignment/static/js/main.61784178.js.map",
+    "787.0f8d78ff.chunk.js.map": "/cryptonetAssignment/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac27b8f4.css",
+    "static/js/main.61784178.js"
+  ]
+}
